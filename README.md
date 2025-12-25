@@ -1,5 +1,3 @@
-# Punnch
----
 - Backend Dev
 - Go
 - Arch Hyprland
