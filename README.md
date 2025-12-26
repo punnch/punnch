@@ -1,5 +1,5 @@
 - Backend Dev
 - Go
-- Arch Hyprland
+- Linux Arch KDE
 - 16 y.o.
 - 🇺🇸
