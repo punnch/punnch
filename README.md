@@ -1,5 +1,5 @@
 - Backend Dev
 - Go
-- Linux Arch KDE
+- Linux Arch KDE, btw
 - 16 y.o.
 - 🇺🇸
