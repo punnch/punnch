@@ -1,5 +1,5 @@
 - Backend Dev
 - 16 y.o.
 - 🇺🇸
-- <img src="https://img.icons8.com/?size=100&id=IrYuykLoqOH6&format=png&color=000000" color="#248db3ff" alt="Go2" height="18"/>
+- <img src="https://img.icons8.com/?size=100&id=IrYuykLoqOH6&format=png&color=000000" alt="Go2" height="18"/>
 - <img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" alt="Arch" height="18">
