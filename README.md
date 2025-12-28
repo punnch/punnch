@@ -1,5 +1,5 @@
 - Backend Dev
 - 16 y.o.
 - 🇺🇸
-- <img align='right' alt='Coding' height='20' src='https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif'>
+- <img alt='Coding' height='20' src='https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif'>
 - <img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" alt="Arch" height="20"/>
