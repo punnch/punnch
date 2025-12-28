@@ -1,5 +1,5 @@
 - Backend Dev
-- <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go2" height="20"/>
-- <img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" alt="Arch" height="20">
 - 16 y.o.
+- <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go2" height="16"/>
+- <img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" alt="Arch" height="16">
 - 🇺🇸
