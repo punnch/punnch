@@ -1,4 +1,4 @@
-- Backend Dev
+- Backend Developer
 - 16 y.o.
 - 🇺🇸
 - <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" height="20"/>
