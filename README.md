@@ -1,5 +1,6 @@
 1. Backend Developer
 2. Dima
-3. Core stack:
+3. Technologies:
   - Go
-  - Arch
+  - Linux
+  - Nvim
